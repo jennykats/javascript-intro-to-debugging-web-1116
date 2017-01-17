@@ -61,7 +61,7 @@ Instead of plowing through the tests by making assumptions about what they want,
 4. Find the bug
 
 #### Step One - Add the Debugger
-
+<!-- edit -->
 Let's put the `debugger` inside our function definition, like so (we're also adding the `name` argument):
 
 ```javascript
